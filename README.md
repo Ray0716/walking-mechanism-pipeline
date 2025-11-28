@@ -1,7 +1,7 @@
 <br/>
 <div align="center">
 <a href="h[ttps://github.com/ShaanCoding/makeread.me](https://github.com/Ray0716/teenhacks-2025)">
-<img src="logo.png" alt="Logo" width=700px height=auto > 
+<img src="logo.gif" alt="Logo" width=600px height=auto > 
 </a>
 <h1 align="center">Kinematic Synthesis of Planar Walking Mechanisms through
 Large-Scale Dataset Generation, Geometric Filtering, and
@@ -22,11 +22,10 @@ Github repository for research project conducted at Stony Brook University throu
 
 <div align="center">
   
-![GitHub repo size](https://img.shields.io/github/repo-size/Ray0716/walking-mechanism-pipeline?style=for-the-badge&logo=github&logoColor=white&color=teal)
+![GitHub repo size](https://img.shields.io/github/repo-size/Ray0716/walking-mechanism-pipeline?style=for-the-badge&logo=files&logoColor=white)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/Ray0716/walking-mechanism-pipeline?style=for-the-badge&logo=git&logoColor=white&color=orange)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Ray0716/walking-mechanism-pipeline/master?style=for-the-badge&logo=commit&logoColor=white)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Ray0716/walking-mechanism-pipeline?style=for-the-badge&logo=commit&logoColor=white)
 ![GitHub top language](https://img.shields.io/github/languages/top/Ray0716/walking-mechanism-pipeline?style=for-the-badge&logo=javascript&logoColor=white)
-![GitHub contributors](https://img.shields.io/github/contributors/Ray0716/walking-mechanism-pipeline?style=for-the-badge&color=red)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Ray0716/walking-mechanism-pipeline?style=for-the-badge)
 ![Contributors](https://img.shields.io/github/contributors/Ray0716/walking-mechanism-pipeline?style=for-the-badge&color=dark-green) ![Issues](https://img.shields.io/github/issues/Ray0716/walking-mechanism-pipeline?style=for-the-badge) ![License](https://img.shields.io/github/license/Ray0716/walking-mechanism-pipeline?style=for-the-badge)
 
