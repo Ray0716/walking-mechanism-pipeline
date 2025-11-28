@@ -1,0 +1,1070 @@
+{
+    "RRRR": {
+        "InitCtr": 200000,
+        "SuccCtr": 162488,
+        "Complex": 0,
+        "GenRate": 0.81244
+    },
+    "RRRP": {
+        "InitCtr": 200000,
+        "SuccCtr": 146165,
+        "Complex": 0,
+        "GenRate": 0.730825
+    },
+    "RRPR": {
+        "InitCtr": 200000,
+        "SuccCtr": 140308,
+        "Complex": 0,
+        "GenRate": 0.70154
+    },
+    "PRPR": {
+        "InitCtr": 200000,
+        "SuccCtr": 157770,
+        "Complex": 0,
+        "GenRate": 0.78885
+    },
+    "Watt1T1A1": {
+        "InitCtr": 100000,
+        "SuccCtr": 23905,
+        "Complex": 0,
+        "GenRate": 0.23905
+    },
+    "Watt1T2A1": {
+        "InitCtr": 100000,
+        "SuccCtr": 23905,
+        "Complex": 0,
+        "GenRate": 0.23905
+    },
+    "Watt1T3A1": {
+        "InitCtr": 100000,
+        "SuccCtr": 25091,
+        "Complex": 0,
+        "GenRate": 0.25091
+    },
+    "Watt1T1A2": {
+        "InitCtr": 100000,
+        "SuccCtr": 24226,
+        "Complex": 0,
+        "GenRate": 0.24226
+    },
+    "Watt1T2A2": {
+        "InitCtr": 100000,
+        "SuccCtr": 24226,
+        "Complex": 0,
+        "GenRate": 0.24226
+    },
+    "Watt1T3A2": {
+        "InitCtr": 100000,
+        "SuccCtr": 23290,
+        "Complex": 0,
+        "GenRate": 0.2329
+    },
+    "Watt2T1A1": {
+        "InitCtr": 100000,
+        "SuccCtr": 24110,
+        "Complex": 0,
+        "GenRate": 0.2411
+    },
+    "Watt2T2A1": {
+        "InitCtr": 100000,
+        "SuccCtr": 24110,
+        "Complex": 0,
+        "GenRate": 0.2411
+    },
+    "Watt2T1A2": {
+        "InitCtr": 100000,
+        "SuccCtr": 24534,
+        "Complex": 0,
+        "GenRate": 0.24534
+    },
+    "Watt2T2A2": {
+        "InitCtr": 100000,
+        "SuccCtr": 24534,
+        "Complex": 0,
+        "GenRate": 0.24534
+    },
+    "Steph1T1": {
+        "InitCtr": 100000,
+        "SuccCtr": 23943,
+        "Complex": 0,
+        "GenRate": 0.23943
+    },
+    "Steph1T2": {
+        "InitCtr": 100000,
+        "SuccCtr": 23943,
+        "Complex": 0,
+        "GenRate": 0.23943
+    },
+    "Steph1T3": {
+        "InitCtr": 100000,
+        "SuccCtr": 23943,
+        "Complex": 0,
+        "GenRate": 0.23943
+    },
+    "Steph2T1A1": {
+        "InitCtr": 750000,
+        "SuccCtr": 686,
+        "Complex": 1,
+        "GenRate": 0.0009146666666666667
+    },
+    "Steph2T2A1": {
+        "InitCtr": 750000,
+        "SuccCtr": 2068,
+        "Complex": 1,
+        "GenRate": 0.0027573333333333334
+    },
+    "Steph3T1A1": {
+        "InitCtr": 100000,
+        "SuccCtr": 23361,
+        "Complex": 0,
+        "GenRate": 0.23361
+    },
+    "Steph3T2A1": {
+        "InitCtr": 100000,
+        "SuccCtr": 23838,
+        "Complex": 0,
+        "GenRate": 0.23838
+    },
+    "Steph3T1A2": {
+        "InitCtr": 750000,
+        "SuccCtr": 25183,
+        "Complex": 1,
+        "GenRate": 0.033577333333333334
+    },
+    "Steph3T2A2": {
+        "InitCtr": 750000,
+        "SuccCtr": 8591,
+        "Complex": 1,
+        "GenRate": 0.011454666666666667
+    },
+    "Steph2T1A2": {
+        "InitCtr": 750000,
+        "SuccCtr": 23,
+        "Complex": 1,
+        "GenRate": 3.066666666666667e-05
+    },
+    "Steph2T2A2": {
+        "InitCtr": 750000,
+        "SuccCtr": 79,
+        "Complex": 1,
+        "GenRate": 0.00010533333333333334
+    },
+    "Type823-7": {
+        "InitCtr": 1000000,
+        "SuccCtr": 2998,
+        "Complex": 1,
+        "GenRate": 0.002998
+    },
+    "Type822-2": {
+        "InitCtr": 100000,
+        "SuccCtr": 19920,
+        "Complex": 0,
+        "GenRate": 0.1992
+    },
+    "Type816-11": {
+        "InitCtr": 1000000,
+        "SuccCtr": 1520,
+        "Complex": 1,
+        "GenRate": 0.00152
+    },
+    "Type825-4": {
+        "InitCtr": 1000000,
+        "SuccCtr": 2427,
+        "Complex": 1,
+        "GenRate": 0.002427
+    },
+    "Type822-17": {
+        "InitCtr": 100000,
+        "SuccCtr": 20351,
+        "Complex": 0,
+        "GenRate": 0.20351
+    },
+    "Type823-9": {
+        "InitCtr": 1000000,
+        "SuccCtr": 2780,
+        "Complex": 1,
+        "GenRate": 0.00278
+    },
+    "Type815-7": {
+        "InitCtr": 100000,
+        "SuccCtr": 17508,
+        "Complex": 0,
+        "GenRate": 0.17508
+    },
+    "Type822-15": {
+        "InitCtr": 1000000,
+        "SuccCtr": 21252,
+        "Complex": 1,
+        "GenRate": 0.021252
+    },
+    "Type813-2": {
+        "InitCtr": 1000000,
+        "SuccCtr": 1985,
+        "Complex": 1,
+        "GenRate": 0.001985
+    },
+    "Type821-9": {
+        "InitCtr": 100000,
+        "SuccCtr": 21099,
+        "Complex": 0,
+        "GenRate": 0.21099
+    },
+    "Type823-3": {
+        "InitCtr": 1000000,
+        "SuccCtr": 793,
+        "Complex": 1,
+        "GenRate": 0.000793
+    },
+    "Type814-2": {
+        "InitCtr": 1000000,
+        "SuccCtr": 1243,
+        "Complex": 1,
+        "GenRate": 0.001243
+    },
+    "Type832-0": {
+        "InitCtr": 100000,
+        "SuccCtr": 33806,
+        "Complex": 0,
+        "GenRate": 0.33806
+    },
+    "Type816-5": {
+        "InitCtr": 1000000,
+        "SuccCtr": 7842,
+        "Complex": 1,
+        "GenRate": 0.007842
+    },
+    "Type831-0": {
+        "InitCtr": 100000,
+        "SuccCtr": 20232,
+        "Complex": 0,
+        "GenRate": 0.20232
+    },
+    "Type814-19": {
+        "InitCtr": 1000000,
+        "SuccCtr": 2726,
+        "Complex": 1,
+        "GenRate": 0.002726
+    },
+    "Type815-1": {
+        "InitCtr": 100000,
+        "SuccCtr": 19634,
+        "Complex": 0,
+        "GenRate": 0.19634
+    },
+    "Type822-1": {
+        "InitCtr": 100000,
+        "SuccCtr": 20258,
+        "Complex": 0,
+        "GenRate": 0.20258
+    },
+    "Type811-2": {
+        "InitCtr": 100000,
+        "SuccCtr": 20710,
+        "Complex": 0,
+        "GenRate": 0.2071
+    },
+    "Type817-5": {
+        "InitCtr": 100000,
+        "SuccCtr": 20018,
+        "Complex": 0,
+        "GenRate": 0.20018
+    },
+    "Type825-5": {
+        "InitCtr": 1000000,
+        "SuccCtr": 20823,
+        "Complex": 1,
+        "GenRate": 0.020823
+    },
+    "Type822-8": {
+        "InitCtr": 1000000,
+        "SuccCtr": 3008,
+        "Complex": 1,
+        "GenRate": 0.003008
+    },
+    "Type811-0": {
+        "InitCtr": 100000,
+        "SuccCtr": 19947,
+        "Complex": 0,
+        "GenRate": 0.19947
+    },
+    "Type822-19": {
+        "InitCtr": 1000000,
+        "SuccCtr": 21638,
+        "Complex": 1,
+        "GenRate": 0.021638
+    },
+    "Type832-1": {
+        "InitCtr": 1000000,
+        "SuccCtr": 3014,
+        "Complex": 1,
+        "GenRate": 0.003014
+    },
+    "Type816-10": {
+        "InitCtr": 1000000,
+        "SuccCtr": 1186,
+        "Complex": 1,
+        "GenRate": 0.001186
+    },
+    "Type824-2": {
+        "InitCtr": 1000000,
+        "SuccCtr": 1251,
+        "Complex": 1,
+        "GenRate": 0.001251
+    },
+    "Type824-5": {
+        "InitCtr": 1000000,
+        "SuccCtr": 151,
+        "Complex": 1,
+        "GenRate": 0.000151
+    },
+    "Type814-0": {
+        "InitCtr": 100000,
+        "SuccCtr": 19200,
+        "Complex": 0,
+        "GenRate": 0.192
+    },
+    "Type822-3": {
+        "InitCtr": 100000,
+        "SuccCtr": 20326,
+        "Complex": 0,
+        "GenRate": 0.20326
+    },
+    "Type817-3": {
+        "InitCtr": 1000000,
+        "SuccCtr": 108,
+        "Complex": 1,
+        "GenRate": 0.000108
+    },
+    "Type825-1": {
+        "InitCtr": 1000000,
+        "SuccCtr": 763,
+        "Complex": 1,
+        "GenRate": 0.000763
+    },
+    "Type814-4": {
+        "InitCtr": 1000000,
+        "SuccCtr": 799,
+        "Complex": 1,
+        "GenRate": 0.000799
+    },
+    "Type817-7": {
+        "InitCtr": 100000,
+        "SuccCtr": 19626,
+        "Complex": 0,
+        "GenRate": 0.19626
+    },
+    "Type815-0": {
+        "InitCtr": 100000,
+        "SuccCtr": 19350,
+        "Complex": 0,
+        "GenRate": 0.1935
+    },
+    "Type821-0": {
+        "InitCtr": 100000,
+        "SuccCtr": 20088,
+        "Complex": 0,
+        "GenRate": 0.20088
+    },
+    "Type824-14": {
+        "InitCtr": 1000000,
+        "SuccCtr": 17553,
+        "Complex": 1,
+        "GenRate": 0.017553
+    },
+    "Type817-1": {
+        "InitCtr": 100000,
+        "SuccCtr": 19619,
+        "Complex": 0,
+        "GenRate": 0.19619
+    },
+    "Type814-6": {
+        "InitCtr": 1000000,
+        "SuccCtr": 2744,
+        "Complex": 1,
+        "GenRate": 0.002744
+    },
+    "Type812-7": {
+        "InitCtr": 1000000,
+        "SuccCtr": 20826,
+        "Complex": 1,
+        "GenRate": 0.020826
+    },
+    "Type812-0": {
+        "InitCtr": 1000000,
+        "SuccCtr": 1943,
+        "Complex": 1,
+        "GenRate": 0.001943
+    },
+    "Type814-16": {
+        "InitCtr": 1000000,
+        "SuccCtr": 16210,
+        "Complex": 1,
+        "GenRate": 0.01621
+    },
+    "Type817-2": {
+        "InitCtr": 1000000,
+        "SuccCtr": 986,
+        "Complex": 1,
+        "GenRate": 0.000986
+    },
+    "Type832-2": {
+        "InitCtr": 1000000,
+        "SuccCtr": 2836,
+        "Complex": 1,
+        "GenRate": 0.002836
+    },
+    "Type812-5": {
+        "InitCtr": 1000000,
+        "SuccCtr": 2778,
+        "Complex": 1,
+        "GenRate": 0.002778
+    },
+    "Type824-4": {
+        "InitCtr": 1000000,
+        "SuccCtr": 521,
+        "Complex": 1,
+        "GenRate": 0.000521
+    },
+    "Type813-1": {
+        "InitCtr": 1000000,
+        "SuccCtr": 5190,
+        "Complex": 1,
+        "GenRate": 0.00519
+    },
+    "Type822-0": {
+        "InitCtr": 100000,
+        "SuccCtr": 19584,
+        "Complex": 0,
+        "GenRate": 0.19584
+    },
+    "Type821-8": {
+        "InitCtr": 100000,
+        "SuccCtr": 20580,
+        "Complex": 0,
+        "GenRate": 0.2058
+    },
+    "Type815-3": {
+        "InitCtr": 1000000,
+        "SuccCtr": 117,
+        "Complex": 1,
+        "GenRate": 0.000117
+    },
+    "Type819-2": {
+        "InitCtr": 1000000,
+        "SuccCtr": 1978,
+        "Complex": 1,
+        "GenRate": 0.001978
+    },
+    "Type825-3": {
+        "InitCtr": 1000000,
+        "SuccCtr": 5137,
+        "Complex": 1,
+        "GenRate": 0.005137
+    },
+    "Type822-10": {
+        "InitCtr": 100000,
+        "SuccCtr": 20446,
+        "Complex": 0,
+        "GenRate": 0.20446
+    },
+    "Type812-1": {
+        "InitCtr": 1000000,
+        "SuccCtr": 81,
+        "Complex": 1,
+        "GenRate": 8.1e-05
+    },
+    "Type821-6": {
+        "InitCtr": 100000,
+        "SuccCtr": 20727,
+        "Complex": 0,
+        "GenRate": 0.20727
+    },
+    "Type822-9": {
+        "InitCtr": 1000000,
+        "SuccCtr": 2885,
+        "Complex": 1,
+        "GenRate": 0.002885
+    },
+    "Type831-2": {
+        "InitCtr": 100000,
+        "SuccCtr": 20962,
+        "Complex": 0,
+        "GenRate": 0.20962
+    },
+    "Type817-9": {
+        "InitCtr": 100000,
+        "SuccCtr": 20126,
+        "Complex": 0,
+        "GenRate": 0.20126
+    },
+    "Type819-1": {
+        "InitCtr": 1000000,
+        "SuccCtr": 1748,
+        "Complex": 1,
+        "GenRate": 0.001748
+    },
+    "Type816-0": {
+        "InitCtr": 1000000,
+        "SuccCtr": 1315,
+        "Complex": 1,
+        "GenRate": 0.001315
+    },
+    "Type818-2": {
+        "InitCtr": 100000,
+        "SuccCtr": 20411,
+        "Complex": 0,
+        "GenRate": 0.20411
+    },
+    "Type821-7": {
+        "InitCtr": 100000,
+        "SuccCtr": 21136,
+        "Complex": 0,
+        "GenRate": 0.21136
+    },
+    "Type822-6": {
+        "InitCtr": 1000000,
+        "SuccCtr": 3008,
+        "Complex": 1,
+        "GenRate": 0.003008
+    },
+    "Type814-1": {
+        "InitCtr": 100000,
+        "SuccCtr": 19305,
+        "Complex": 0,
+        "GenRate": 0.19305
+    },
+    "Type818-1": {
+        "InitCtr": 1000000,
+        "SuccCtr": 2755,
+        "Complex": 1,
+        "GenRate": 0.002755
+    },
+    "Type825-2": {
+        "InitCtr": 1000000,
+        "SuccCtr": 1204,
+        "Complex": 1,
+        "GenRate": 0.001204
+    },
+    "Type816-6": {
+        "InitCtr": 1000000,
+        "SuccCtr": 3110,
+        "Complex": 1,
+        "GenRate": 0.00311
+    },
+    "Type821-4": {
+        "InitCtr": 100000,
+        "SuccCtr": 20638,
+        "Complex": 0,
+        "GenRate": 0.20638
+    },
+    "Type831-1": {
+        "InitCtr": 100000,
+        "SuccCtr": 20792,
+        "Complex": 0,
+        "GenRate": 0.20792
+    },
+    "Type824-3": {
+        "InitCtr": 1000000,
+        "SuccCtr": 210,
+        "Complex": 1,
+        "GenRate": 0.00021
+    },
+    "Type824-13": {
+        "InitCtr": 100000,
+        "SuccCtr": 19716,
+        "Complex": 0,
+        "GenRate": 0.19716
+    },
+    "Type814-10": {
+        "InitCtr": 1000000,
+        "SuccCtr": 20884,
+        "Complex": 1,
+        "GenRate": 0.020884
+    },
+    "Type824-15": {
+        "InitCtr": 1000000,
+        "SuccCtr": 20966,
+        "Complex": 1,
+        "GenRate": 0.020966
+    },
+    "Type817-6": {
+        "InitCtr": 1000000,
+        "SuccCtr": 15236,
+        "Complex": 1,
+        "GenRate": 0.015236
+    },
+    "Type814-18": {
+        "InitCtr": 1000000,
+        "SuccCtr": 2981,
+        "Complex": 1,
+        "GenRate": 0.002981
+    },
+    "Type816-3": {
+        "InitCtr": 1000000,
+        "SuccCtr": 1448,
+        "Complex": 1,
+        "GenRate": 0.001448
+    },
+    "Type815-9": {
+        "InitCtr": 1000000,
+        "SuccCtr": 16008,
+        "Complex": 1,
+        "GenRate": 0.016008
+    },
+    "Type824-12": {
+        "InitCtr": 1000000,
+        "SuccCtr": 2854,
+        "Complex": 1,
+        "GenRate": 0.002854
+    },
+    "Type822-16": {
+        "InitCtr": 100000,
+        "SuccCtr": 20548,
+        "Complex": 0,
+        "GenRate": 0.20548
+    },
+    "Type823-5": {
+        "InitCtr": 100000,
+        "SuccCtr": 19970,
+        "Complex": 0,
+        "GenRate": 0.1997
+    },
+    "Type816-7": {
+        "InitCtr": 1000000,
+        "SuccCtr": 2695,
+        "Complex": 1,
+        "GenRate": 0.002695
+    },
+    "Type821-1": {
+        "InitCtr": 100000,
+        "SuccCtr": 20719,
+        "Complex": 0,
+        "GenRate": 0.20719
+    },
+    "Type814-3": {
+        "InitCtr": 1000000,
+        "SuccCtr": 21,
+        "Complex": 1,
+        "GenRate": 2.1e-05
+    },
+    "Type823-15": {
+        "InitCtr": 1000000,
+        "SuccCtr": 21015,
+        "Complex": 1,
+        "GenRate": 0.021015
+    },
+    "Type823-8": {
+        "InitCtr": 1000000,
+        "SuccCtr": 19987,
+        "Complex": 1,
+        "GenRate": 0.019987
+    },
+    "Type816-1": {
+        "InitCtr": 1000000,
+        "SuccCtr": 1476,
+        "Complex": 1,
+        "GenRate": 0.001476
+    },
+    "Type824-11": {
+        "InitCtr": 1000000,
+        "SuccCtr": 3075,
+        "Complex": 1,
+        "GenRate": 0.003075
+    },
+    "Type812-2": {
+        "InitCtr": 100000,
+        "SuccCtr": 17764,
+        "Complex": 0,
+        "GenRate": 0.17764
+    },
+    "Type822-7": {
+        "InitCtr": 1000000,
+        "SuccCtr": 2760,
+        "Complex": 1,
+        "GenRate": 0.00276
+    },
+    "Type815-4": {
+        "InitCtr": 100000,
+        "SuccCtr": 20527,
+        "Complex": 0,
+        "GenRate": 0.20527
+    },
+    "Type823-11": {
+        "InitCtr": 100000,
+        "SuccCtr": 19915,
+        "Complex": 0,
+        "GenRate": 0.19915
+    },
+    "Type824-9": {
+        "InitCtr": 1000000,
+        "SuccCtr": 21034,
+        "Complex": 1,
+        "GenRate": 0.021034
+    },
+    "Type821-3": {
+        "InitCtr": 100000,
+        "SuccCtr": 18692,
+        "Complex": 0,
+        "GenRate": 0.18692
+    },
+    "Type824-7": {
+        "InitCtr": 1000000,
+        "SuccCtr": 2817,
+        "Complex": 1,
+        "GenRate": 0.002817
+    },
+    "Type811-1": {
+        "InitCtr": 100000,
+        "SuccCtr": 20550,
+        "Complex": 0,
+        "GenRate": 0.2055
+    },
+    "Type831-3": {
+        "InitCtr": 100000,
+        "SuccCtr": 21625,
+        "Complex": 0,
+        "GenRate": 0.21625
+    },
+    "Type814-7": {
+        "InitCtr": 1000000,
+        "SuccCtr": 3013,
+        "Complex": 1,
+        "GenRate": 0.003013
+    },
+    "Type811-3": {
+        "InitCtr": 100000,
+        "SuccCtr": 20941,
+        "Complex": 0,
+        "GenRate": 0.20941
+    },
+    "Type817-8": {
+        "InitCtr": 100000,
+        "SuccCtr": 20027,
+        "Complex": 0,
+        "GenRate": 0.20027
+    },
+    "Type819-0": {
+        "InitCtr": 1000000,
+        "SuccCtr": 230,
+        "Complex": 1,
+        "GenRate": 0.00023
+    },
+    "Type825-0": {
+        "InitCtr": 1000000,
+        "SuccCtr": 3212,
+        "Complex": 1,
+        "GenRate": 0.003212
+    },
+    "Type815-8": {
+        "InitCtr": 100000,
+        "SuccCtr": 17678,
+        "Complex": 0,
+        "GenRate": 0.17678
+    },
+    "Type823-6": {
+        "InitCtr": 1000000,
+        "SuccCtr": 2823,
+        "Complex": 1,
+        "GenRate": 0.002823
+    },
+    "Type815-6": {
+        "InitCtr": 100000,
+        "SuccCtr": 20144,
+        "Complex": 0,
+        "GenRate": 0.20144
+    },
+    "Type816-8": {
+        "InitCtr": 1000000,
+        "SuccCtr": 5623,
+        "Complex": 1,
+        "GenRate": 0.005623
+    },
+    "Type821-5": {
+        "InitCtr": 100000,
+        "SuccCtr": 20731,
+        "Complex": 0,
+        "GenRate": 0.20731
+    },
+    "Type812-4": {
+        "InitCtr": 1000000,
+        "SuccCtr": 3029,
+        "Complex": 1,
+        "GenRate": 0.003029
+    },
+    "Type823-1": {
+        "InitCtr": 1000000,
+        "SuccCtr": 384,
+        "Complex": 1,
+        "GenRate": 0.000384
+    },
+    "Type815-2": {
+        "InitCtr": 1000000,
+        "SuccCtr": 1084,
+        "Complex": 1,
+        "GenRate": 0.001084
+    },
+    "Type813-0": {
+        "InitCtr": 1000000,
+        "SuccCtr": 460,
+        "Complex": 1,
+        "GenRate": 0.00046
+    },
+    "Type823-4": {
+        "InitCtr": 100000,
+        "SuccCtr": 20093,
+        "Complex": 0,
+        "GenRate": 0.20093
+    },
+    "Type822-13": {
+        "InitCtr": 100000,
+        "SuccCtr": 20457,
+        "Complex": 0,
+        "GenRate": 0.20457
+    },
+    "Type822-11": {
+        "InitCtr": 100000,
+        "SuccCtr": 20571,
+        "Complex": 0,
+        "GenRate": 0.20571
+    },
+    "Type823-10": {
+        "InitCtr": 1000000,
+        "SuccCtr": 2952,
+        "Complex": 1,
+        "GenRate": 0.002952
+    },
+    "Type814-8": {
+        "InitCtr": 100000,
+        "SuccCtr": 19241,
+        "Complex": 0,
+        "GenRate": 0.19241
+    },
+    "Type815-5": {
+        "InitCtr": 100000,
+        "SuccCtr": 19973,
+        "Complex": 0,
+        "GenRate": 0.19973
+    },
+    "Type816-9": {
+        "InitCtr": 1000000,
+        "SuccCtr": 2853,
+        "Complex": 1,
+        "GenRate": 0.002853
+    },
+    "Type822-4": {
+        "InitCtr": 100000,
+        "SuccCtr": 20393,
+        "Complex": 0,
+        "GenRate": 0.20393
+    },
+    "Type823-0": {
+        "InitCtr": 1000000,
+        "SuccCtr": 5410,
+        "Complex": 1,
+        "GenRate": 0.00541
+    },
+    "Type823-14": {
+        "InitCtr": 100000,
+        "SuccCtr": 20215,
+        "Complex": 0,
+        "GenRate": 0.20215
+    },
+    "Type814-11": {
+        "InitCtr": 100000,
+        "SuccCtr": 19323,
+        "Complex": 0,
+        "GenRate": 0.19323
+    },
+    "Type814-5": {
+        "InitCtr": 1000000,
+        "SuccCtr": 140,
+        "Complex": 1,
+        "GenRate": 0.00014
+    },
+    "Type814-17": {
+        "InitCtr": 1000000,
+        "SuccCtr": 13833,
+        "Complex": 1,
+        "GenRate": 0.013833
+    },
+    "Type814-15": {
+        "InitCtr": 100000,
+        "SuccCtr": 19825,
+        "Complex": 0,
+        "GenRate": 0.19825
+    },
+    "Type824-8": {
+        "InitCtr": 100000,
+        "SuccCtr": 19372,
+        "Complex": 0,
+        "GenRate": 0.19372
+    },
+    "Type812-6": {
+        "InitCtr": 100000,
+        "SuccCtr": 19905,
+        "Complex": 0,
+        "GenRate": 0.19905
+    },
+    "Type817-10": {
+        "InitCtr": 100000,
+        "SuccCtr": 20308,
+        "Complex": 0,
+        "GenRate": 0.20308
+    },
+    "Type822-12": {
+        "InitCtr": 100000,
+        "SuccCtr": 20762,
+        "Complex": 0,
+        "GenRate": 0.20762
+    },
+    "Type812-3": {
+        "InitCtr": 1000000,
+        "SuccCtr": 18787,
+        "Complex": 1,
+        "GenRate": 0.018787
+    },
+    "Type823-12": {
+        "InitCtr": 1000000,
+        "SuccCtr": 20986,
+        "Complex": 1,
+        "GenRate": 0.020986
+    },
+    "Type822-18": {
+        "InitCtr": 100000,
+        "SuccCtr": 20830,
+        "Complex": 0,
+        "GenRate": 0.2083
+    },
+    "Type821-2": {
+        "InitCtr": 100000,
+        "SuccCtr": 20292,
+        "Complex": 0,
+        "GenRate": 0.20292
+    },
+    "Type824-1": {
+        "InitCtr": 100000,
+        "SuccCtr": 19517,
+        "Complex": 0,
+        "GenRate": 0.19517
+    },
+    "Type814-14": {
+        "InitCtr": 100000,
+        "SuccCtr": 19720,
+        "Complex": 0,
+        "GenRate": 0.1972
+    },
+    "Type814-9": {
+        "InitCtr": 100000,
+        "SuccCtr": 19543,
+        "Complex": 0,
+        "GenRate": 0.19543
+    },
+    "Type816-4": {
+        "InitCtr": 1000000,
+        "SuccCtr": 202,
+        "Complex": 1,
+        "GenRate": 0.000202
+    },
+    "Type824-10": {
+        "InitCtr": 1000000,
+        "SuccCtr": 13531,
+        "Complex": 1,
+        "GenRate": 0.013531
+    },
+    "Type824-6": {
+        "InitCtr": 1000000,
+        "SuccCtr": 3126,
+        "Complex": 1,
+        "GenRate": 0.003126
+    },
+    "Type822-5": {
+        "InitCtr": 100000,
+        "SuccCtr": 20430,
+        "Complex": 0,
+        "GenRate": 0.2043
+    },
+    "Type823-2": {
+        "InitCtr": 1000000,
+        "SuccCtr": 2851,
+        "Complex": 1,
+        "GenRate": 0.002851
+    },
+    "Type817-0": {
+        "InitCtr": 100000,
+        "SuccCtr": 19697,
+        "Complex": 0,
+        "GenRate": 0.19697
+    },
+    "Type832-3": {
+        "InitCtr": 100000,
+        "SuccCtr": 33678,
+        "Complex": 0,
+        "GenRate": 0.33678
+    },
+    "Type811-4": {
+        "InitCtr": 100000,
+        "SuccCtr": 21088,
+        "Complex": 0,
+        "GenRate": 0.21088
+    },
+    "Type816-2": {
+        "InitCtr": 1000000,
+        "SuccCtr": 28,
+        "Complex": 1,
+        "GenRate": 2.8e-05
+    },
+    "Type823-13": {
+        "InitCtr": 1000000,
+        "SuccCtr": 36477,
+        "Complex": 1,
+        "GenRate": 0.036477
+    },
+    "Type818-3": {
+        "InitCtr": 1000000,
+        "SuccCtr": 21192,
+        "Complex": 1,
+        "GenRate": 0.021192
+    },
+    "Type818-0": {
+        "InitCtr": 1000000,
+        "SuccCtr": 3155,
+        "Complex": 1,
+        "GenRate": 0.003155
+    },
+    "Type832-4": {
+        "InitCtr": 1000000,
+        "SuccCtr": 21360,
+        "Complex": 1,
+        "GenRate": 0.02136
+    },
+    "Type817-4": {
+        "InitCtr": 100000,
+        "SuccCtr": 19826,
+        "Complex": 0,
+        "GenRate": 0.19826
+    },
+    "Type824-0": {
+        "InitCtr": 100000,
+        "SuccCtr": 19336,
+        "Complex": 0,
+        "GenRate": 0.19336
+    },
+    "Type822-14": {
+        "InitCtr": 100000,
+        "SuccCtr": 20667,
+        "Complex": 0,
+        "GenRate": 0.20667
+    },
+    "Type814-13": {
+        "InitCtr": 1000000,
+        "SuccCtr": 21099,
+        "Complex": 1,
+        "GenRate": 0.021099
+    },
+    "Type814-12": {
+        "InitCtr": 100000,
+        "SuccCtr": 19640,
+        "Complex": 0,
+        "GenRate": 0.1964
+    }
+}
