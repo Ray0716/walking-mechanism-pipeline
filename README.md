@@ -49,7 +49,8 @@ Github repository for research project conducted at Stony Brook University throu
 
 ## About The Project
 
-![Screenshot](demo.png)
+<img src="demo.jpeg" alt="Logo" width=700px height=auto > 
+
 
 text
 
