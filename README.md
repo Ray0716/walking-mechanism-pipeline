@@ -81,7 +81,9 @@ We strongly reccomend running this project on a cloud computing service or compu
 ### Generating Random Initial Values
 
 This is done with the ```Generate Random Init State.ipynb``` file. It generates a numpy matrix of random values used for generating random initial mechanisms for the dataset filtration. 
+
 The included ```Randpos.npy``` numpy matrix contains 10 million groups of 11 (x, y) coordinates, suitable for generating 10 million mechanisms. However, if you wish to generate more mechanisms, you will need to run the ```Generate Random Init State.ipynb``` notebook to generate a larger initialization matrix. The size of your matrix can be determined by multiplying (number of mechanism types * mechanisms per mechanism type). 
+
 For the original research project, a matrix of dimensions 11 (x,y pairs) by 100 million was used. This was too large to upload to github. If you plan on generating your own larger random initilization matrix, please be certain you have enough storage. 
 ```Randpos.npy``` included in the repo has a size of 1.6 GB. Roughly estimating, this means an initilization matrix of 1 million random mechanism parameters would be 1.6 / 10 = 0.16 GB. The 100 million matrix used for the original research project was 16 GB. 
 
